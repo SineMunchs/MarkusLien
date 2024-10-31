@@ -7,13 +7,10 @@
 
       <!-- Hover Subtitle -->
       <div
-        class="absolute opacity-0 transform transition-opacity duration-300 -bottom-12 left-0 w-full group-hover:opacity-100"
-      >
-        <h2
-          class="text-sm mt-3 font-light p-4 bg-white rounded-lg shadow-lg max-w-md"
-        >
-          I assess and diagnose ADHD, ADD, and Autism, certified in ADOS-2, and
-          conduct intelligence testing with WAIS and WISC.
+        class="absolute opacity-0 transform transition-opacity duration-300 -bottom-12 right-0 w-full group-hover:opacity-100">
+        <h2 class="text-sm mt-10 font-light p-4 bg-white rounded-lg shadow-lg max-w-md">
+            I am skilled in assessing and diagnosing neurodevelopmental disorders like ADHD, ADD, and Autism spectrum disorders, certified in ADOS-2. I also conduct intelligence assessments for adolescents and adults using WAIS and WISC.
+            I am an authorized psychologist, a title granted by the Danish Supervisory Board of Psychological Practice, and a member of Dansk Psykologforening.
         </h2>
       </div>
     </div>
