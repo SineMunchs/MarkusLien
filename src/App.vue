@@ -26,13 +26,10 @@ header {
 }
 
 
-
-
 nav {
-  width: 100%;
-  font-size: 10px;
-  text-align: center;
-  
+width: 100%;
+font-size: 10px;
+text-align: center;
 }
 
 nav a.router-link-exact-active:hover {
@@ -55,8 +52,6 @@ nav a:first-of-type {
     padding-right: calc(var(--section-gap) / 2);
   }
 
- 
-
   header .wrapper {
     display: flex;
     place-items: flex-start;
@@ -64,10 +59,10 @@ nav a:first-of-type {
   }
 
   nav {
-  position: absolute;  /* Positions the nav */
+  position: fixed;  /* Positions the nav */
   top: 1rem;          
   right: 1rem;         
-  
+  z-index: 2;;
   text-align: right;
   margin-right: 0;      /* Remove left margin to avoid shifting */
   font-size: 0.7rem;
