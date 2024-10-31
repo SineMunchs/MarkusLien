@@ -3,12 +3,11 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-  <header>
-
+  <header >
     <div class="wrapper">
     
 
-      <nav>
+      <nav class = "sticky">
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
@@ -23,7 +22,9 @@ header {
   line-height: 1.5;
   height: 50px;
   max-height: 100vh;
+  position: relative;
 }
+
 
 
 
@@ -31,6 +32,7 @@ nav {
   width: 100%;
   font-size: 10px;
   text-align: center;
+  
 }
 
 nav a.router-link-exact-active:hover {
