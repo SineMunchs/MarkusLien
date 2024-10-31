@@ -3,12 +3,12 @@
     <!-- Title Section -->
     <div class="text-left group relative">
       <h1 class="text-7xl font-light tracking-tight">MARKUS LIEN</h1>
-      <h2 class="text-9xl mt-2 font-light">Psychologist</h2>
+      <h2 class="text-9xl font-light">Psychologist</h2>
 
       <!-- Hover Subtitle -->
       <div
         class="absolute opacity-0 transform transition-opacity duration-300 -bottom-12 right-0 w-full group-hover:opacity-100">
-        <h2 class="text-sm mt-10 font-light p-4 bg-white rounded-lg shadow-lg max-w-md">
+        <h2 class="text-sm font-light p-4 bg-white rounded-lg shadow-lg max-w-md">
             I am skilled in assessing and diagnosing neurodevelopmental disorders like ADHD, ADD, and Autism spectrum disorders, certified in ADOS-2. I also conduct intelligence assessments for adolescents and adults using WAIS and WISC.<br><br>
             I am an authorized psychologist, a title granted by the Danish Supervisory Board of Psychological Practice, and a member of Dansk Psykologforening.
         </h2>
@@ -25,11 +25,8 @@
 
       <!-- Citation Box (appears on hover over the quote) -->
       <div
-        class="absolute opacity-0 transition-opacity duration-300 -bottom-10 left-0 group-hover:opacity-100"
-      >
-        <span
-          class="text-sm font-light bg-grey-200 px-2 py-1 rounded shadow-lg"
-        >
+        class="absolute opacity-0 transition-opacity duration-300 -bottom-10 left-0 group-hover:opacity-100">
+        <span class="text-sm font-light bg-grey-200 px-2 py-1 rounded shadow-lg" >
           Viktor Frankl, 1946
         </span>
       </div>
