@@ -21,17 +21,16 @@ import { RouterLink, RouterView } from 'vue-router'
 <style scoped>
 header {
   line-height: 1.5;
+  height: 50px;
   max-height: 100vh;
 }
 
 
 
 nav {
-  
   width: 100%;
   font-size: 10px;
   text-align: center;
-  margin-top: 2rem;
 }
 
 nav a.router-link-exact-active:hover {
